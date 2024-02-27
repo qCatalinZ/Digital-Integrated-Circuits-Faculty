@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 27 12:46:04 2024
+# Process ID: 114683
+# Current directory: /home/student/Desktop/Zarcan_Catalin/lab1_circuit_simplu/lab1_circuit_simplu.runs/synth_1
+# Command line: vivado -log circuit_simplu.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source circuit_simplu.tcl
+# Log file: /home/student/Desktop/Zarcan_Catalin/lab1_circuit_simplu/lab1_circuit_simplu.runs/synth_1/circuit_simplu.vds
+# Journal file: /home/student/Desktop/Zarcan_Catalin/lab1_circuit_simplu/lab1_circuit_simplu.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source circuit_simplu.tcl -notrace
