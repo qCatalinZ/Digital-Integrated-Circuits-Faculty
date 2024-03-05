@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 110 ns : File "/home/student/lab1_circuit_simplu/lab1_circuit_simplu.srcs/sim_1/new/test_circuit.v" Line 63
